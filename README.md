@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Gülşen, and I am originally from Mersin, but I currently live in Ankara.
+
+I'm a freshman at Bilkent University.
 
 <!--
 **gugulsen/gugulsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
